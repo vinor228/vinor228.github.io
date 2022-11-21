@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/vinor228.github.io/static/css/main.e2ddbb5f.css",
-    "main.js": "/vinor228.github.io/static/js/main.37afd4b2.js",
-    "index.html": "/vinor228.github.io/index.html",
-    "main.e2ddbb5f.css.map": "/vinor228.github.io/static/css/main.e2ddbb5f.css.map",
-    "main.37afd4b2.js.map": "/vinor228.github.io/static/js/main.37afd4b2.js.map"
+    "main.css": "/static/css/main.e2ddbb5f.css",
+    "main.js": "/static/js/main.73250ac4.js",
+    "index.html": "/index.html",
+    "main.e2ddbb5f.css.map": "/static/css/main.e2ddbb5f.css.map",
+    "main.73250ac4.js.map": "/static/js/main.73250ac4.js.map"
   },
   "entrypoints": [
     "static/css/main.e2ddbb5f.css",
-    "static/js/main.37afd4b2.js"
+    "static/js/main.73250ac4.js"
   ]
 }
